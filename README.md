@@ -29,3 +29,4 @@ BITS Pilani Dubai Campus. Each week has its own folder with two parallel tracks:
    ```bash
    python "Week 1/skeleton/00_setup_check.py"
    ```
+

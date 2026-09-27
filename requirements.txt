@@ -8,3 +8,4 @@ groq>=0.11.0                  # Groq — FREE tier, fast (Llama, etc.)
 # google-generativeai>=0.8.0  # Google — Gemini (FREE tier)
 
 # Weeks 2+ will add more (tools, vector DBs, agent frameworks) as we go.
+
